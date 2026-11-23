@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' version '8.5.2' }
+android { namespace 'com.nr.nsa.only'; compileSdk 35
+ defaultConfig { applicationId 'com.nr.nsa.only'; minSdk 23; targetSdk 28; versionCode 1; versionName '1.0' }
+}
